@@ -22,19 +22,19 @@ const metadata = {
      * Also, no need to add the Greasemonkey version of the function if the word `Greasemonkey`
      * is mentioned in one of the keys, at the `compatible` section.
      */
-    'GM_getValue',
-    'GM_setValue',
-    'GM_xmlhttpRequest',
-    'GM_setClipboard',
+    // 'GM_getValue',
+    // 'GM_setValue',
+    // 'GM_xmlhttpRequest',
+    // 'GM_setClipboard',
   ],
   'run-at': 'document-start',
   noframes: '',
   compatible: [
     //
-    'edge Tampermonkey or Violentmonkey',
-    'firefox Greasemonkey, Tampermonkey or Violentmonkey',
-    'chrome Tampermonkey or Violentmonkey',
-    'opera Tampermonkey or Violentmonkey',
+    // 'edge Tampermonkey or Violentmonkey',
+    // 'firefox Greasemonkey, Tampermonkey or Violentmonkey',
+    // 'chrome Tampermonkey or Violentmonkey',
+    // 'opera Tampermonkey or Violentmonkey',
   ],
   supportURL: `https://github.com/${author}/${name}/issues`,
   homepageURL: `https://github.com/${author}/${name}`,

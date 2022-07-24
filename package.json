@@ -1,7 +1,7 @@
 {
-  "name": "userscript-gulp-template",
+  "name": "instagram--download-all-media",
   "version": "0.0.1",
-  "description": "User script template that acts as module and tries to simulate imports",
+  "description": "User Script that allows you to safely download all user media",
   "author": "FlowerForWar",
   "main": "src/index.js",
   "scripts": {

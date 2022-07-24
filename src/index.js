@@ -1,7 +1,4 @@
-import fancyFunction from './js/fancyFunction.js';
 import addStyle from './js/addStyle.js';
-
-fancyFunction();
 
 addStyle(
   `
