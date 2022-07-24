@@ -19,17 +19,7 @@
  * Source files are available at https://github.com/FlowerForWar/instagram--download-all-media/tree/main/src
  */
 
-function addStyle(styleText, id) {
-  const head = document.getElementsByTagName('head')[0] || document.documentElement;
-  const style = document.createElement('style');
-  style.setAttribute('type', 'text/css');
-  style.textContent = styleText;
-  if (id) {
-    style.setAttribute('id', id);
-  }
-  head.appendChild(style);
-  return style;
-}
+/* import addStyle from './js/addStyle.js';
 
 addStyle(
   `
@@ -39,6 +29,6 @@ include: another.css
 
 addStyle('include: main.min.css');
 
-document.body.insertAdjacentHTML('beforeend', 'include: element.html');
+document.body.insertAdjacentHTML('beforeend', 'include: element.html'); */
 
-console.log('userscript-modules-template');
+alert('instagram--download-all-media');
