@@ -189,7 +189,7 @@ const defaultTasks = [
   buildConfig.cssSupport && cssTask,
   buildConfig.htmlMinify && htmlTask,
   jsTask,
-  watchTask,
+  // watchTask,
 ].filter(Boolean);
 
 // console.log(defaultTasks);

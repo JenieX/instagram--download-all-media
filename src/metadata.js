@@ -14,7 +14,7 @@ const metadata = {
   author,
   match: [
     //
-    '*://*/*',
+    'https://www.instagram.com/*',
   ],
   grant: [
     /**
