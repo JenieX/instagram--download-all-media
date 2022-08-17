@@ -40,7 +40,7 @@ To simulate normal usage thus lower the chance of being detected as a spam.
 * `%mediaIndex%` : the media postion in a post. The start is zero, so, first media is 0, second is 1, etc.
 * `%postID%` : the id of the post. It is the last segment in the URL of a post.
 * `%userName%` : the user id that shows up in the URL of a user page.
-* `%date%` : the date in which the media was posted. It is in this form "twoDigitsYear-twoDigitsMonth-twoDigitsDay".
+* `%date%` : the date in which the media was posted. "twoDigitsYear-twoDigitsMonth-twoDigitsDay".
 * `%timestamp%` : the timestamp in which the media was posted.
 
 Examples
