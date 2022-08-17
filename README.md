@@ -21,10 +21,10 @@ Instagram tends to make changes frequently, meaning this user script could break
 In order to lower the chance of being detected as a spam.
 
 ### Download Session Popup
-It is related to how Instagram works. In order for the download window to show up, you may need to allow it, as it is a `POPUP`.
+It is related to how Instagram works. And in order for the download window to show up, you may need to allow it, as it is a `POPUP`.
 
 ### No Minimized Download window 
-It is related to how Instagram works. If the window is minimized, the download session will be paused. It will resume download after maximizing the window though.
+It is related to how Instagram works. And if the window is minimized, the download session will be paused. It will resume download after maximizing the window though.
 
 ### Download Delay
 To simulate normal usage thus lower the chance of being detected as a spam.
