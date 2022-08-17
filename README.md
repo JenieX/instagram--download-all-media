@@ -1,9 +1,13 @@
 # Instagram - Download All Media
 User Script that allows you to download all user media.
 
+---
+
 ## Browser Download Settings (screenshot)
 - Disable `Ask me what to do with each download`, to save media without showing any dialog.
 - Set the `Location` folder to some folder like `D:\instagram-downloads`
+
+---
 
 ## Notes
 - [This is an experimental user script](#experimental)
@@ -28,6 +32,8 @@ It is related to how Instagram works. And if the window is minimized, the downlo
 
 ### Download Delay
 To simulate normal usage thus lower the chance of being detected as a spam.
+
+---
 
 ## Naming Template
 * `%mediaName%` : the media name. Extracted from the media URL.
