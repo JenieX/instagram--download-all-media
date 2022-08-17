@@ -45,5 +45,5 @@ To simulate normal usage thus lower the chance of being detected as a spam.
 
 Examples
 * `%postID%-%mediaIndex%-%userName%`
-* `%timestamp%_%userName%_%mediaIndex%
+* `%timestamp%_%userName%_%mediaIndex%`
 ---
