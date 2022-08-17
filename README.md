@@ -1,4 +1,4 @@
-# instagram--download-all-media
+# Instagram - Download All Media
 User Script that allows you to download all user media.
 
 ## Browser Download Settings (screenshot)
