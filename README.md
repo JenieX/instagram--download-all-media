@@ -9,8 +9,10 @@ User Script that allows you to download all user media
 - [This is an experimental user script](#experimental)
 - [Only One download session is allowed](#one-download-session)
 - [Download session will start in a new popup window](#download-session-popup)
-- [Download window should not be minimized](#download-session-window)
+- [Download window should not be minimized](#no-minimized-download-window)
 - [Three seconds delay between each download](#download-delay)
+
+## Why?
 
 ### Experimental
 Instagram tends to make changes frequently, meaning this user script could break any time.
@@ -19,10 +21,10 @@ Instagram tends to make changes frequently, meaning this user script could break
 In order to lower the chance of being detected as a spam.
 
 ### Download Session Popup
-In order for the download window to show up, you may need to allow it, as it is a `POPUP`.
+It is related to how Instagram works. In order for the download window to show up, you may need to allow it, as it is a `POPUP`.
 
-### Download session window 
-Should not be minimized. Otherwise, the download session will be paused, and resumes after maximizing the window.
+### No Minimized Download window 
+It is related to how Instagram works. If the window is minimized, the download session will be paused. It will resume download after maximizing the window though.
 
 ### Download Delay
 To simulate normal usage thus lower the chance of being detected as a spam.
