@@ -43,3 +43,7 @@ To simulate normal usage thus lower the chance of being detected as a spam.
 * `%date%` : the date in which the media was posted. It is in this form "twoDigitsYear-twoDigitsMonth-twoDigitsDay".
 * `%timestamp%` : the timestamp in which the media was posted.
 
+Examples
+* `%postID%-%mediaIndex%-%userName%`
+* `%timestamp%_%userName%_%mediaIndex%
+---
