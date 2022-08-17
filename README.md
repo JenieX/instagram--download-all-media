@@ -10,6 +10,7 @@ User Script that allows you to download all user media.
 ---
 
 ## Notes
+- [No plans for an extension of this user script](#not-browser-extension)
 - [This is an experimental user script](#experimental)
 - [Only One download session is allowed](#one-download-session)
 - [Download session will start in a new popup window](#download-session-popup)
@@ -17,6 +18,8 @@ User Script that allows you to download all user media.
 - [Three seconds delay between each download](#download-delay)
 
 ## Why?
+### Not Browser Extension
+User scripts are sure limited, but easier to maintain, and fast to update.
 
 ### Experimental
 Instagram tends to make changes frequently, meaning this user script could break any time. And I'm yet to test it thoroughly.
