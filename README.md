@@ -15,7 +15,7 @@ User Script that allows you to download all user media.
 ## Why?
 
 ### Experimental
-Instagram tends to make changes frequently, meaning this user script could break any time.
+Instagram tends to make changes frequently, meaning this user script could break any time. And I'm yet to test it thoroughly.
 
 ### One Download Session
 In order to lower the chance of being detected as a spam.
