@@ -37,7 +37,7 @@ To simulate normal usage thus lower the chance of being detected as a spam.
 
 ## Naming Template
 * `%mediaName%` : the media name. Extracted from the media URL.
-* `%mediaIndex%` : the media postion in a post, the start is zero. so, first media is 0, second is 1, etc.
+* `%mediaIndex%` : the media postion in a post. The start is zero, so, first media is 0, second is 1, etc.
 * `%postID%` : the id of the post. It is the last segment in the URL of a post.
 * `%userName%` : the user id that shows up in the URL of a user page.
 * `%date%` : the date in which the media was posted. It is in this form "twoDigitsYear-twoDigitsMonth-twoDigitsDay".
