@@ -43,7 +43,7 @@ To simulate normal usage thus lower the chance of being detected as a spam.
 * `%date%` : the date in which the media was posted. "twoDigitsYear-twoDigitsMonth-twoDigitsDay".
 * `%timestamp%` : the timestamp in which the media was posted.
 
-Examples
+ Examples that create unique file names
 * `%postID%-%mediaIndex%-%userName%`
 * `%timestamp%_%userName%_%mediaIndex%`
 ---
