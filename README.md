@@ -40,6 +40,7 @@ To simulate normal usage thus lower the chance of being detected as a spam.
 
 ## Naming Template
 * `%mediaName%` : the media name. Extracted from the media URL.
+* `%mediaPostion%` : the media postion in a post.
 * `%mediaIndex%` : the media postion in a post. The start is zero, so, first media is 0, second is 1, etc.
 * `%postID%` : the id of the post. It is the last segment in the URL of a post.
 * `%userName%` : the user id that shows up in the URL of a user page.
@@ -47,6 +48,6 @@ To simulate normal usage thus lower the chance of being detected as a spam.
 * `%timestamp%` : the timestamp in which the media was posted.
 
  Examples that create unique file names
+* `%userName% [%timestamp%] (%mediaPostion%)`
 * `%postID%-%mediaIndex%-%userName%`
-* `%timestamp%_%userName%_%mediaIndex%`
 ---
