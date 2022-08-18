@@ -51,8 +51,14 @@ To simulate normal usage thus lower the chance of being detected as a spam.
  Examples that create unique file names
 * `%userName% [%timestamp%] (%mediaPostion%)`
 * `%postID%-%mediaIndex%-%userName%`
+* 
 ---
 
+### Compatibility
+* Edge
+   *  [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+
+---
 ## Related User Scripts
 * Single media downloader
   * [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button)
