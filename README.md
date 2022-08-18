@@ -44,6 +44,7 @@ To simulate normal usage thus lower the chance of being detected as a spam.
 * `%mediaIndex%` : the media postion in a post. The start is zero, so, first media is 0, second is 1, etc.
 * `%postID%` : the id of the post. It is the last segment in the URL of a post.
 * `%userName%` : the user id that shows up in the URL of a user page.
+* `%userRealName%` : the real name of the user.
 * `%date%` : the date in which the media was posted. "twoDigitsYear-twoDigitsMonth-twoDigitsDay".
 * `%timestamp%` : the timestamp in which the media was posted.
 
@@ -52,8 +53,9 @@ To simulate normal usage thus lower the chance of being detected as a spam.
 * `%postID%-%mediaIndex%-%userName%`
 ---
 
-Related User Scripts
-*
-*
+## Related User Scripts
+* Single media downloader
+  * [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button)
+  * [Instagram Source Opener](https://greasyfork.org/en/scripts/372366-instagram-source-opener)
 
 ---
