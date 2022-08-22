@@ -1,6 +1,8 @@
 # Instagram - Download All Media
 User Script that allows you to download all user media.
 
+BULK
+
 ---
 
 ## Browser Download Settings (screenshot)
