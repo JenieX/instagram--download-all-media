@@ -53,7 +53,7 @@ To simulate normal usage thus lower the chance of being detected as a spam.
  Examples that create unique file names
 * `%userName% [%timestamp%] (%mediaPostion%)`
 * `%postID%-%mediaIndex%-%userName%`
-* 
+* `%timestamp% [%postID%] (%mediaIndex%)`
 ---
 
 ### Compatibility
